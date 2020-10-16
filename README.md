@@ -8,9 +8,7 @@ Reference: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2
 # REAL-WORLD DATASETS
 To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO please open the folder named: REAL-WORLD_DATASETS
   
-  ###############
-  #VERSO STEP #21
-  ###############
+  ################ VERSO STEP #1 ###############
   
   << Requirements >>
   
@@ -19,10 +17,8 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
   << Running >>
   For each dataset, please run the script xxx
   
-  ###############
-  #VERSO STEP #2 
-  ###############
-  
+  ################ VERSO STEP #2 ###############
+
   << Requirements >>
   
   (1) [Python 3.6.x] Follow the instructions at: https://www.python.org/downloads/
