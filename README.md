@@ -15,6 +15,7 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
   [R] 
   
   << Running >>
+  
   For each dataset, please run the script xxx
   
   ################ VERSO STEP #2 ###############
@@ -22,8 +23,11 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
   << Requirements >>
   
   (1) [Python 3.6.x] Follow the instructions at: https://www.python.org/downloads/
+  
   (2) [Jupyter] Follow the instructions at https://jupyter.org/install
+  
   (3) [Scanpy 1.6] https://scanpy.readthedocs.io/en/stable/installation.html
+ 
   
   
   << Running >>
