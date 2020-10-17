@@ -25,11 +25,15 @@ For each dataset, please run the script xxx
  
 ### Running
 For each dataset, please launch Jupyter from the terminal with the following command:
-    Jupyter notebook
+<pre><code>
+Jupyter notebook.
+</code></pre>
 
 Please execute sequentially the Juypyter notebooks included in each folder and named:   
-    VERSO_STEP_2_DATASET_1.ipynb  
-    VERSO_STEP_2_DATASET_2.ipynb
+<pre><code>
+VERSO_STEP_2_DATASET_1.ipynb  
+VERSO_STEP_2_DATASET_2.ipynb
+</code></pre>
   
 # SYNTHETIC DATASETS
 To reproduce the analysis on the 80 simulated datasets via VERSO please open the folder named: *_SYNTHETIC_DATASETS_*
