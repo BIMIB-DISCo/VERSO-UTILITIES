@@ -18,6 +18,9 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
 ### Running
 For each dataset, please run the R scripts main.R included in the folder as follow:
 <pre><code>Rscript main.R</code></pre>
+
+### Outputs 
+VERSO STEP #1 returns as output an R list providing the inferred maximum log-likelihood phylogenetic tree.
   
 ## VERSO STEP #2
 
