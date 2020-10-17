@@ -32,6 +32,7 @@ For each dataset, please execute sequentially the Juypyter notebooks included in
 ### Outputs 
 VERSO STEP #2 returns as output:
 * the SVG images including the UMAP plots related to the distinct clonal genotypes included in the datasets. The file names are numbered according to the clonal genotype ID: C01.svg, C02.svg, etc.
+* the distance among samples, numbered according to the clonal genotype ID: distances_C01.txt, distances_C02.txt, etc.
 * the metadata for each clonal genotype in folders names as: OUTPUT_C01, OUTPUT_C02, etc.
 
   
