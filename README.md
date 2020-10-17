@@ -12,7 +12,7 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
   * [R] Follow the instructions at: https://www.r-project.org/ 
   
 ### Running
-For each dataset, please run the script xxx
+For each dataset, please run the R scripts included in the folder. 
   
 ## VERSO STEP #2
 
