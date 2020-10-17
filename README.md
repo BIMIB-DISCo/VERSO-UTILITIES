@@ -22,10 +22,10 @@ For each dataset, please run the script xxx
 * (3) [Scanpy 1.6] Follow the instructions at: https://scanpy.readthedocs.io/en/stable/installation.html
  
 ### Running
-For each dataset, please launch Jupyter from the terminal with the following command:
+Please launch Jupyter from the terminal with the following command:
 <pre><code>Jupyter notebook</code></pre>
 
-Please execute sequentially the Juypyter notebooks included in each folder and named:   
+For each dataset, please execute sequentially the Juypyter notebooks included in each related folder and named:   
 <pre><code>VERSO_STEP_2_DATASET_1.ipynb </code></pre>
 <pre><code>VERSO_STEP_2_DATASET_2.ipynb</code></pre>
 
