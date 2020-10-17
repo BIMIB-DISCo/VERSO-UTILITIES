@@ -4,7 +4,7 @@ Utilities repository for VERSO (Viral Evolution ReconStructiOn). This repository
 Note that this is _not_ the repository of the VERSO tool and does not include the related documentation (please refer to: https://github.com/BIMIB-DISCo/VERSO for the tool and the documentation). 
 
 # REAL-WORLD DATASETS
-To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO please open the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/REAL-WORLD_DATASETS. Please read the following instruction to perform both VERSO STEP #1 and STEP #2. 
+To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO please go the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/REAL-WORLD_DATASETS. Please read the following instruction to perform both VERSO STEP #1 and STEP #2. 
   
 ## VERSO STEP #1
 
@@ -37,6 +37,6 @@ VERSO STEP #2 returns as output:
 
   
 # SYNTHETIC DATASETS
-To reproduce the analysis on the 80 simulated datasets via VERSO please open the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/SYNTHETIC_DATASETS. 
+To reproduce the analysis on the 80 simulated datasets via VERSO please go to the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/SYNTHETIC_DATASETS. 
 
 
