@@ -29,6 +29,11 @@ For each dataset, please execute sequentially the Juypyter notebooks included in
 <pre><code>VERSO_STEP_2_DATASET_1.ipynb </code></pre>
 <pre><code>VERSO_STEP_2_DATASET_2.ipynb</code></pre>
 
+### Outputs 
+VERSO STEP #2 returns as output:
+* the SVG images including the UMAP plots related to the distinct clonal genotypes included in the datasets. The file names are numbered according to the clonal genotype ID: C01.svg, C02.svg, etc.
+* the metadata for each clonal genotype in folders names as: OUTPUT_C01, OUTPUT_C02, etc.
+
   
 # SYNTHETIC DATASETS
 To reproduce the analysis on the 80 simulated datasets via VERSO please open the folder named: *_SYNTHETIC_DATASETS_*
