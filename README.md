@@ -39,4 +39,6 @@ VERSO STEP #2 returns as output:
 # SYNTHETIC DATASETS
 To reproduce the analysis on the 80 simulated datasets via VERSO please go to the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/SYNTHETIC_DATASETS. 
 
+In the subfolder results you can find an RData named inference.RData where the simulated data, ground truth and inferred phylogenetic trees are provided. In the scripts main_part1_compute_absolute_error.R and main_part2_compute_phylogenetic_distances.R you can find the code to compute the performance of each method. 
+
 
