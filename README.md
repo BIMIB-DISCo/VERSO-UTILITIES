@@ -5,7 +5,7 @@ Main tool repository: https://github.com/BIMIB-DISCo/VERSO.
 
 Reference: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2
 
-Note that this is _not_ the repository of the VERSO tool and does not related documentation (please refer to: https://github.com/BIMIB-DISCo/VERSO for the tool and the documentation). 
+Note that this is _not_ the repository of the VERSO tool and does not include the related documentation (please refer to: https://github.com/BIMIB-DISCo/VERSO for the tool and the documentation). 
 
 # REAL-WORLD DATASETS
 To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO please open the folder named: *_REAL-WORLD_DATASETS_*
