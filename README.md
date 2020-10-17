@@ -10,9 +10,12 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
 
 ### Requirements 
   * [R] Follow the instructions at: https://www.r-project.org/ 
+  * [ape R library, see https://cran.r-project.org/web/packages/ape/index.html] Command: <pre><code>if (!require("ape")) install.packages("ape")</code></pre>
+  * [Rfast R library, see https://cran.r-project.org/web/packages/Rfast/index.html] Command: <pre><code>if (!require("ape")) install.packages("Rfast")</code></pre>
   
 ### Running
-For each dataset, please run the R scripts included in the folder. 
+For each dataset, please run the R scripts main.R included in the folder as follow:
+<pre><code>Rscript main.R</code></pre>
   
 ## VERSO STEP #2
 
