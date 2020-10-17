@@ -5,6 +5,8 @@ Main tool repository: https://github.com/BIMIB-DISCo/VERSO.
 
 Reference: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2
 
+Note that this is _not_ the repository of the VERSO tool and does not related documentation (please refer to: https://github.com/BIMIB-DISCo/VERSO for the tool and the documentation). 
+
 # REAL-WORLD DATASETS
 To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO please open the folder named: *_REAL-WORLD_DATASETS_*
   
@@ -21,7 +23,7 @@ For each dataset, please run the script xxx
 ### Requirements 
 * (1) [Python 3.6.x] Follow the instructions at: https://www.python.org/downloads/
 * (2) [Jupyter] Follow the instructions at: https://jupyter.org/install
-* (3) [Scanpy 1.6]Follow the instructions at: https://scanpy.readthedocs.io/en/stable/installation.html
+* (3) [Scanpy 1.6] Follow the instructions at: https://scanpy.readthedocs.io/en/stable/installation.html
  
 ### Running
 For each dataset, please launch Jupyter from the terminal with the following command:
