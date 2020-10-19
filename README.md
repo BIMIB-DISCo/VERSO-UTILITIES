@@ -1,5 +1,5 @@
 # VERSO-UTILITIES
-Utilities repository for VERSO (Viral Evolution ReconStructiOn). This repository contains data and scripts to reproduce the analysis on both *real-world* and *simulated* datasets presented in the article: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v2
+Utilities repository for VERSO (Viral Evolution ReconStructiOn). This repository contains data and scripts to reproduce the analysis on both *real-world* and *simulated* datasets presented in the article: https://www.biorxiv.org/content/10.1101/2020.04.22.044404v3
 
 Note that this is _not_ the repository of the VERSO tool and does not include the related documentation (please refer to: https://github.com/BIMIB-DISCo/VERSO for the tool and the documentation). 
 
