@@ -29,7 +29,7 @@ VERSO STEP #1 returns as output an R list providing the inferred maximum log-lik
 * (2) [Jupyter] Follow the instructions at: https://jupyter.org/install
 * (3) [SCANPY 1.6] Run this command via PIP to install the proper version:
 
-	<pre><code>pip install scanpy==1.6</code></pre>
+	<pre><code>pip install scanpy[leiden]</code></pre>
 	Further details at: https://scanpy.readthedocs.io/en/stable/installation.html
  
 ### Running
