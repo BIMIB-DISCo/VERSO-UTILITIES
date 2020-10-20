@@ -46,7 +46,8 @@ VERSO STEP #2 returns as output:
 * the distance among samples, numbered according to the clonal genotype ID: distances_C01.txt, distances_C02.txt, etc.
 * the metadata for each clonal genotype in folders names as: OUTPUT_C01, OUTPUT_C02, etc.
 
-  
+Note that the visualization of the UMAP plots may slightly different due to different package versions.
+
 # SYNTHETIC DATASETS
 To reproduce the analysis on the 80 simulated datasets via VERSO please go to the folder named: https://github.com/BIMIB-DISCo/VERSO-UTILITIES/tree/main/SYNTHETIC_DATASETS. 
 
