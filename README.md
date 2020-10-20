@@ -16,7 +16,7 @@ To reproduce the analyses of Datasets #1 (Amplicon) and #2 (RNA-seq) via VERSO p
   <pre><code>if (!require("Rfast")) install.packages("Rfast")</code></pre>
   
 ### Running
-For each dataset, please run the R scripts main.R included in the folder as follow:
+For each dataset, please run the R scripts main.R included in the relative subfolder as follow:
 <pre><code>Rscript main.R</code></pre>
 
 ### Outputs 
